@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web and Mobile Developer
 ------------------------
 
-As a full-stack web developer with 3+ years of experience, I have a broad skill set in everything web development with a main focus on the MERN stack. I have experience with leading teams, building MVPs from the ground up, APIs, scrapes, and working with big data. I specialize myself in Typescript, React/Native, Nest.js, Nodejs, and MongoDB.
+As a full-stack developer with over 5 years of experience, I possess a broad skill set in all web and mobile development aspects, with a primary focus on the MERN stack. My expertise includes team leadership, building solutions from the ground up, API development, web scraping, and working with big data. I specialize in TypeScript, React/React Native, Nest.js, Node.js, and MongoDB.
 
 * 🌍  I'm based in Belgrade, Serbia
 * ✉️  You can contact me at [strbacpavlejob@gmail.com](mailto:strbacpavlejob@gmail.com)
